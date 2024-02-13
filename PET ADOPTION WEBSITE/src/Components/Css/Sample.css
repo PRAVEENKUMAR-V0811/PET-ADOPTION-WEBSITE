@@ -1,0 +1,77 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    margin:auto;
+    margin-top: 60px;
+    background: #fff;
+    width: 400px;
+    height: 450px;
+    border-radius: 25px;
+    border: 2px solid ;
+    padding: 50px;
+}
+#input-input{
+display:flex;
+align-items: center;
+margin:auto;
+width: 280px;
+height:50px;
+background: rgb(248, 250, 252);
+border-radius: 6px;
+}
+#sub_btn{
+display: flex;
+justify-content: center;
+align-items: center;
+width: 120px;
+height: 39px;
+color: #f94b00;
+border-radius: 50px;
+font-size: 19px;
+font-weight: 600;
+cursor: pointer;
+text-decoration: none;
+}
+a{
+    text-decoration: none; 
+}
+
+.primary-button{
+display: flex;
+justify-content: center;
+align-items: center;
+width: 120px;
+height: 39px;
+color: #fff;
+border-radius: 50px;
+font-size: 19px;
+font-weight: 600;
+cursor: pointer;
+background-color: #f94b00;
+}
+
+#text{
+cursor: pointer;
+}
+
+#pet{
+width: 100px;
+height: 100px;
+padding-left: 120px;
+}
+
+input{
+font-size: 1rem;
+padding-left: 10px;
+}
+
+.btn{
+padding-left: 88%;
+justify-content: space-between;
+background-color: #fff;
+}
+
+h2{
+    padding-left:10px;
+    color: #f94b00;
+}
